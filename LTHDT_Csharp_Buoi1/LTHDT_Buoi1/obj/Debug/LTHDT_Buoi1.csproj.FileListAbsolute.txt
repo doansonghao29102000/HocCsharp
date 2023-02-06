@@ -6,3 +6,11 @@ C:\Users\Admin\Desktop\Hoc_C#\LTHDT_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.cspr
 C:\Users\Admin\Desktop\Hoc_C#\LTHDT_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Hoc_C#\LTHDT_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.exe
 C:\Users\Admin\Desktop\Hoc_C#\LTHDT_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.pdb
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\bin\Debug\LTHDT_Buoi1.exe.config
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\bin\Debug\LTHDT_Buoi1.exe
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\bin\Debug\LTHDT_Buoi1.pdb
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.exe
+C:\Users\Admin\Desktop\HocCsharp\LTHDT_Csharp_Buoi1\LTHDT_Buoi1\obj\Debug\LTHDT_Buoi1.pdb
