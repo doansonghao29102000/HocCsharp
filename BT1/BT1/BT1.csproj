@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D12F11A7-9E10-4835-ACD3-F9356A041556}</ProjectGuid>
+    <ProjectGuid>{59A2F1AA-2092-4A6E-837E-C7AFB61C9271}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LTHDT_Buoi1</RootNamespace>
-    <AssemblyName>LTHDT_Buoi1</AssemblyName>
+    <RootNamespace>BT1</RootNamespace>
+    <AssemblyName>BT1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,16 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Developer.cs" />
-    <Compile Include="HangHoa.cs" />
-    <Compile Include="HocSinh.cs" />
-    <Compile Include="NhanVien.cs" />
-    <Compile Include="NhanVienDiCa.cs" />
-    <Compile Include="NhanVienHanhChinh.cs" />
-    <Compile Include="PhanSo.cs" />
+    <Compile Include="Footballer.cs" />
+    <Compile Include="People.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SinhVien.cs" />
-    <Compile Include="TeamLeader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

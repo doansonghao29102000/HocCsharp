@@ -28,29 +28,62 @@ namespace LTHDT_Buoi1
             //Console.WriteLine(sinhVien.Tong(1,2,3));
             //Console.WriteLine(sinhVien.TBgpa(1, 2, 4, 5, 6, 7, 8));
 
-            NhanVien nhanVien = new NhanVien();
-            nhanVien.tenNV = "Nhân viên 1";
-            nhanVien.maNV = 1;
-            Console.WriteLine("{0}/{1}" , nhanVien.tenNV , nhanVien.maNV);
-            Console.WriteLine("Lương nhân viên : " + nhanVien.TinhLuong());
+            //NhanVien nhanVien = new NhanVien();
+            //nhanVien.tenNV = "Nhân viên 1";
+            //nhanVien.maNV = 1;
+            //Console.WriteLine("{0}/{1}" , nhanVien.tenNV , nhanVien.maNV);
+            //Console.WriteLine("Lương nhân viên : " + nhanVien.TinhLuong());
 
-            NhanVienHanhChinh nhanVienHanhChinh = new NhanVienHanhChinh();
-            nhanVienHanhChinh.tenNV = "Hành Chính";
-            Console.WriteLine("{0}/{1}", nhanVienHanhChinh.tenNV, nhanVienHanhChinh.maNV);
-            nhanVienHanhChinh.maNV = 2;
-            Console.WriteLine("Lương nhân viên hành chính : " + nhanVienHanhChinh.TinhLuong());
+            //NhanVienHanhChinh nhanVienHanhChinh = new NhanVienHanhChinh();
+            //nhanVienHanhChinh.tenNV = "Hành Chính";
+            //Console.WriteLine("{0}/{1}", nhanVienHanhChinh.tenNV, nhanVienHanhChinh.maNV);
+            //nhanVienHanhChinh.maNV = 2;
+            //Console.WriteLine("Lương nhân viên hành chính : " + nhanVienHanhChinh.TinhLuong());
 
-            NhanVienDiCa nhanVienDiCa = new NhanVienDiCa();
-            nhanVienDiCa.maNV = 3;
-            nhanVienDiCa.tenNV = "Đi Ca";
-            nhanVienDiCa.ca = "Sáng";
-            Console.WriteLine("{0}/{1}/{2}", nhanVienDiCa.tenNV, nhanVienDiCa.maNV , nhanVienDiCa.ca);
-            Console.WriteLine("Lương nhân viên đi ca : " + nhanVienDiCa.TinhLuong());
+            //NhanVienDiCa nhanVienDiCa = new NhanVienDiCa();
+            //nhanVienDiCa.maNV = 3;
+            //nhanVienDiCa.tenNV = "Đi Ca";
+            //nhanVienDiCa.ca = "Sáng";
+            //Console.WriteLine("{0}/{1}/{2}", nhanVienDiCa.tenNV, nhanVienDiCa.maNV , nhanVienDiCa.ca);
+            //Console.WriteLine("Lương nhân viên đi ca : " + nhanVienDiCa.TinhLuong());
 
-            Console.WriteLine(nhanVien.ThuongThuCong(26));
-            Console.WriteLine(nhanVienHanhChinh.ThuongThuCong(26));
-            Console.WriteLine(nhanVienDiCa.ThuongThuCong(26));
+            //Console.WriteLine(nhanVien.ThuongThuCong(26));
+            //Console.WriteLine(nhanVienHanhChinh.ThuongThuCong(26));
+            //Console.WriteLine(nhanVienDiCa.ThuongThuCong(26));
 
+            //Developer d1 = new Developer();
+            //Developer d2 = new Developer("Trần Thị Nở" , 2002 , 1500 , 3900);
+            //TeamLeader t1 = new TeamLeader();
+            //Console.WriteLine(t1);
+            //TeamLeader[] a = new TeamLeader[100];
+            //int n;
+            //Console.WriteLine("Nhập số lượng TeamLeader : ");
+            //n = int.Parse(Console.ReadLine());
+
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    a[i] = new TeamLeader();
+            //    a[i].nhapTT();
+
+            //}
+
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    a[i] = new TeamLeader();
+            //    a[i].inTT();
+
+            //}
+
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    if (a[i].tienTaiKhoan > 200)
+            //    {
+            //        a[i].inTT();
+            //    }
+
+            //}
+            //TeamLeader ld = new TeamLeader();
+            //ld.inTT();
         }
     }
 }

@@ -18,7 +18,7 @@ namespace LTHDT_Buoi1
         //    get { return maSV; }     ==  public string maSV { get; set; } 
         //    set { maSV = value; }
         //}
-
+        // ==
         //public string getMSV()
         //{
         //    return maSV;
