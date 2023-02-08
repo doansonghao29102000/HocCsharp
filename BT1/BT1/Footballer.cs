@@ -9,6 +9,9 @@ namespace BT1
     public class Footballer : People
     {
         #region attribute
+        public static int soCauThu; 
+        // biến static dùng chung cho cả lớp , bao giờ ct hủy mới về 0
+        // tạo đối tượng nào thì số cầu thủ sẽ tăng lên 
         public int soBanThang { get; set; }
         public double luong { get; set; }
 
@@ -17,6 +20,7 @@ namespace BT1
         #region constructor no parameter
         public Footballer() : base() 
         {
+            soCauThu++;
             soBanThang = 0;
             luong = 0;
         }

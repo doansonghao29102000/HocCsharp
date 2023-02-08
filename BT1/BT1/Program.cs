@@ -16,9 +16,9 @@ namespace BT1
             #region  a nhap n cau thu
 
             Footballer[] arr = new Footballer[100];
-            int n;
+            int n = 0;
             Console.Write("Nhập số lượng cầu thủ : ");
-            n = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine() , out n);
 
             for (int i = 1; i <= n; i++)
             {
@@ -54,6 +54,10 @@ namespace BT1
                 if (maxn == arr[i].soBanThang) Console.WriteLine(arr[i]); ;
             }
             #endregion
+
+            Developer d = new Developer();
+            d.HoTen = "xlxx";
+            Console.WriteLine(d.HoTen);
 
 
         }
