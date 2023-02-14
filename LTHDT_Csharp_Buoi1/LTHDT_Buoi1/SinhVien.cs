@@ -41,7 +41,7 @@ namespace LTHDT_Buoi1
             dtb = 0.0f;
         }
         //Hàm khởi tạo có tham số
-        public SinhVien(string maSV, string tenSV, float dtb)
+        public SinhVien(string maSV = "1", string tenSV = "x", float dtb = 0)
         {
             this.maSV = maSV;
             this.tenSV = tenSV;

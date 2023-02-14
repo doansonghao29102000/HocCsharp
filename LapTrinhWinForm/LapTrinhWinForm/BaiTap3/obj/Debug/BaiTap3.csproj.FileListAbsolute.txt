@@ -1,0 +1,9 @@
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\bin\Debug\BaiTap3.exe.config
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\bin\Debug\BaiTap3.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\bin\Debug\BaiTap3.pdb
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.csprojResolveAssemblyReference.cache
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.Form1.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.Cache
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.exe
+E:\C#\2023\14a12\LapTrinhWinForm\BaiTap3\obj\Debug\BaiTap3.pdb

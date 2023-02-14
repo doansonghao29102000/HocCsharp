@@ -19,7 +19,8 @@ namespace LTHDT_Buoi1
             //PhanSo ps3 = ps1.Thuong(ps2);
             ////ps3.NghichDao();
             //ps3.In();
-            //SinhVien sinhVien = new SinhVien();
+            SinhVien sinhVien = new SinhVien(dtb: 9);
+            sinhVien.HienThi();
             //sinhVien.maSV = "01";
             //Console.WriteLine(sinhVien.maSV);
             //Console.WriteLine(sinhVien.ToString());

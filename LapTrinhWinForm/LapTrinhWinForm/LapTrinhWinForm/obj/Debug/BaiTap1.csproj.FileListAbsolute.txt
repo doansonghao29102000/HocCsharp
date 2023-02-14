@@ -1,0 +1,9 @@
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\bin\Debug\LapTrinhWinForm.exe.config
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\bin\Debug\LapTrinhWinForm.exe
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\bin\Debug\LapTrinhWinForm.pdb
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\BaiTap1.csprojResolveAssemblyReference.cache
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\LapTrinhWinForm.Form1.resources
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\LapTrinhWinForm.Properties.Resources.resources
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\BaiTap1.csproj.GenerateResource.Cache
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\LapTrinhWinForm.exe
+E:\C#\2023\14a12\LapTrinhWinForm\LapTrinhWinForm\obj\Debug\LapTrinhWinForm.pdb
